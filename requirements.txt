@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers
+diffusers
+gradio
+streamlit
+numpy
+Pillow
+accelerate
+git+https://github.com/deepseek-ai/Janus.git
+lightning
